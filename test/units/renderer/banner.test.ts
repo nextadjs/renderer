@@ -1,4 +1,4 @@
-import { BannerRenderer, type BannerAd } from "@/renderer/banner";
+import { BannerRenderer, type BannerAd } from "@/renderers/banner";
 
 describe("Banner Renderer", () => {
   beforeEach(() => {

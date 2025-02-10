@@ -1,6 +1,6 @@
 import { OpenRTBBidConverter } from "./openrtb-bid-converter";
-import { DisplayRenderer, type DisplayAd } from "./renderer/display";
-import { NativeRenderer, type NativeAd } from "./renderer/native";
+import { DisplayRenderer, type DisplayAd } from "./renderers/display";
+import { NativeRenderer, type NativeAd } from "./renderers/native";
 import type { Ad, IRenderer } from "./types";
 import type { Bid } from "iab-openrtb/v26";
 

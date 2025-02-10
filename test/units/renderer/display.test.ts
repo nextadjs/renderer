@@ -1,4 +1,4 @@
-import { DisplayRenderer, type DisplayAd } from "@/renderer/display";
+import { DisplayRenderer, type DisplayAd } from "@/renderers/display";
 
 describe("Display Renderer", () => {
   beforeEach(() => {
