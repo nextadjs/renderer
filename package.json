@@ -13,7 +13,7 @@
   "devDependencies": {
     "@types/node": "^22.13.1",
     "happy-dom": "^17.0.2",
-    "iab-adcom": "^1.0.1",
+    "iab-adcom": "^1.0.3",
     "iab-native": "^1.0.0",
     "iab-openrtb": "^1.0.0",
     "tsup": "^8.3.6",

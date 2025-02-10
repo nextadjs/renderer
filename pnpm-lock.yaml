@@ -15,8 +15,8 @@ importers:
         specifier: ^17.0.2
         version: 17.0.2
       iab-adcom:
-        specifier: ^1.0.1
-        version: 1.0.1
+        specifier: ^1.0.3
+        version: 1.0.3
       iab-native:
         specifier: ^1.0.0
         version: 1.0.0
@@ -480,8 +480,8 @@ packages:
     resolution: {integrity: sha512-4X20M9nZrdSv6vJ0nHJxYZi3Kh2su8Gc1w+n3yPcOdHnAdhJ2yBwXhg3asCoPtPg6uCzqvPAnq/iDiptI+LwUw==}
     engines: {node: '>=14.0.0'}
 
-  iab-adcom@1.0.1:
-    resolution: {integrity: sha512-abt2z73cd4gn/X2qrQfCkCob6cATI5WCF3w1mhVgOIPsLHW0ZzVRjGL5OUWYe9wuu+pBLFfwgaKdnKiIaUs2lw==}
+  iab-adcom@1.0.3:
+    resolution: {integrity: sha512-pSdyOk+hys4crLeg5Q1LIFws3oPZ/F7k9m0vDwsNDooGK2Lau/tayMMgxo+zaJ6Z9X2+DqvyoK7PXdgI1pb3Nw==}
     engines: {node: '>=14.0.0'}
 
   iab-native@1.0.0:
@@ -1183,7 +1183,7 @@ snapshots:
 
   iab-adcom@1.0.0: {}
 
-  iab-adcom@1.0.1: {}
+  iab-adcom@1.0.3: {}
 
   iab-native@1.0.0: {}
 
