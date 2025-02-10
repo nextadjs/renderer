@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "target": "es2022",
-    "lib": ["es2022", "esnext.disposable", "dom"],
+    "target": "es2017",
+    "lib": ["es2017", "esnext.disposable", "dom"],
 
     "module": "ESNext",
     "moduleDetection": "force",
