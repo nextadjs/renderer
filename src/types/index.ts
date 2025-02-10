@@ -4,7 +4,8 @@ import type { Bid } from "iab-openrtb/v26";
 export type Ad = AdCOM.Media.Ad;
 
 export interface IRenderer {
-  render(ad: Partial<Ad>): Promise<void>;
+  render(target: HTMLDivElement, ad: Partial<Ad>): Promise<void>;
+  // renderNative(ad: Partial<Ad>, adTemplate: string): Promise<void>;
 }
 
 export interface CreativeConverter {
